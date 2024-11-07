@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.strengthcoachglasgow.co.uk	TRUE	/	FALSE	1999999999	is_mobile	0
+origympersonaltrainercourses.co.uk	TRUE	/	FALSE	1999999999	AWSALB	alz8zLpSoRwPZf6WKENhOGpgpvdcR1I2QTJNw6E2C1YMVtylrz4RiyqPCm6fsevLeNt0b6+GnW9OPYu8XxWH1325nFTDmSjKPYYn4A3qLF6mlNmOur3b6K6WUSZ2
+origympersonaltrainercourses.co.uk	TRUE	/	FALSE	1999999999	AWSALBCORS	alz8zLpSoRwPZf6WKENhOGpgpvdcR1I2QTJNw6E2C1YMVtylrz4RiyqPCm6fsevLeNt0b6+GnW9OPYu8XxWH1325nFTDmSjKPYYn4A3qLF6mlNmOur3b6K6WUSZ2
+origympersonaltrainercourses.co.uk	TRUE	/	FALSE	1999999999	SameSite	None
+www.insure4sport.co.uk	TRUE	/	FALSE	1999999999	AWSALB	/4GHn3dIuKbFmlXdoejG0KZFEzmTwReC656/VJxCTjQ96cMqyKlbI7cwg67d4MLdd7rygXlcb5iaA7EXqUr4FAf3lPFQqEJQ5NbPgb1ltD4mKrYTxO1ktpWvCd3h
+www.insure4sport.co.uk	TRUE	/	FALSE	1999999999	AWSALBCORS	/4GHn3dIuKbFmlXdoejG0KZFEzmTwReC656/VJxCTjQ96cMqyKlbI7cwg67d4MLdd7rygXlcb5iaA7EXqUr4FAf3lPFQqEJQ5NbPgb1ltD4mKrYTxO1ktpWvCd3h
+www.insure4sport.co.uk	TRUE	/	FALSE	1999999999	SameSite	None
+www.strengthcoachglasgow.co.uk	TRUE	/	FALSE	1999999999	cookie-consent	%7B%22allowStrictlyNecessaryCookies%22%3Atrue%2C%22allowFunctionalityCookies%22%3Atrue%2C%22allowPerformanceCookies%22%3Atrue%2C%22allowTargetingCookies%22%3Atrue%7D
+www.strengthcoachglasgow.co.uk	TRUE	/	FALSE	1999999999	language	en
+
